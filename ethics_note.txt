@@ -1,0 +1,11 @@
+This Password Complexity Checker is developed strictly for educational purposes.
+
+Ethical Guidelines:
+- This tool does not store, save, or transmit any password data.
+- Passwords are evaluated temporarily during runtime and are not logged.
+- Users should test only their own passwords.
+- The tool must not be used to collect or analyze passwords without user consent.
+
+This project follows ethical cybersecurity practices and promotes strong password awareness.
+
+The developer is not responsible for any misuse of this tool.
