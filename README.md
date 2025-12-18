@@ -1,4 +1,4 @@
-# 🔐 Password Complexity Checker (Task-03)
+# 🔐 Password Complexity Checker 
 
 ## 📌 Project Description
 This project is a Password Complexity Checker developed using Python.  
@@ -34,3 +34,4 @@ python password_checker.py
 ## 👨‍💻 Author
 BCA Student  
 Cyber Security Project
+
